@@ -1,0 +1,4 @@
+Assumes that php is installed on the mpd server along with mpc 
+Simple scripts call various mpc functions to control mpd.
+Note that a playlist is assumed 
+Extra playlists could be loaded with more buttons or button logic in the Arduino code.
