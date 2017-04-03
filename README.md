@@ -10,4 +10,4 @@ Features
 - 'OTA' pushbutton to allow updates to the device via Arduino IDE
 - Goes to esp.deepsleep after a 3 minute duty cycle.
 
-![alt tag](https://cloud.githubusercontent.com/assets/25142892/24594593/126ec37a-1872-11e7-9090-f82c56a88fa5.png)
+![alt tag](https://cloud.githubusercontent.com/assets/25142892/24596836/42487880-1885-11e7-8862-dff2d4bf21eb.png)
